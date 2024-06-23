@@ -1,0 +1,28 @@
+form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px;
+  }
+
+  .forecast-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .forecast-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
